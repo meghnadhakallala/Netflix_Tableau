@@ -19,9 +19,7 @@ This project requires a dataset containing Netflix show and movie information, i
 *   Genre(s)
 *   Description (optional)
 
-**Data Source:**
 
-*   (Replace with details on how to obtain the data)
 
   
 
